@@ -1,0 +1,27 @@
+{
+    "incomes": [
+        {
+            "source": "salary",
+            "amount": 30000.0,
+            "date_time": "2026-11-08 13:12:49"
+        }
+    ],
+    "expenses": [
+        {
+            "category": "food",
+            "amount": 500.0,
+            "date_time": "2026-10-26 16:50:44"
+        },
+        {
+            "category": "shopping",
+            "amount": 8999.0,
+            "date_time": "2026-10-26 17:58:39"
+        },
+        {
+            "category": "travel",
+            "amount": 5999.0,
+            "date_time": "2026-11-08 13:13:22"
+        }
+    ],
+    "budget": 55999.0
+}
